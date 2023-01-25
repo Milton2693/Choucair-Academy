@@ -1,0 +1,43 @@
+Inicio: 23/01/2023
+Salida a PDN: 10/02/2023
+
+HISTORIA DE USUARIO
+
+HU1 Consulta y matricula de cursos
+
+Yo como Colaborador
+Necesito poder consultar y matricularme en los cursos que brinda la pagina web Choucair Academy
+Para ver y realizar los cursos de mi interes
+
+Criterios de aceptación
+
+1) Se pueden consultar los cursos por medio de sus categorías
+2) Al seleccionar el botón "Ir" se vera reflejado el Filtro de busqueda
+3) La busqueda del curso se debe poder realizar por medio de los diferentes filtros 
+4) La consulta no se ejecutara si no se han diligenciado todos los campos obligatorios
+5) No se podra automatricular a los cursos que exijan aprobación previa
+6) Al realizar los items del curso estos se completaran al seguir con los criterios de finalización
+7) Algunos items podran ser completados manualmente por el usuario al seleccionar el icono
+
+
+Preguntas abiertas:
+
+
+A.	¿Cree usted que puede diseñar casos de prueba sin tener la aplicación? ¿por qué?
+	No, por que para diseñar los casos de prueba se tiene que tener conocimiento sobre el flujo de los datos y hacer smoke test en la aplicación para verificar su funcionalidad
+
+B.	¿Qué información o documentación considera importante para el inicio de las pruebas?
+	Historias de usuario, Contextualización sobre el funcionamiento del aplicativo, Datos de prueba y documentación del proyecto.
+
+C.	¿si la documentación no es clara usted que haría?
+	Solicitar mas información con respecto a la documentación y refinar las historias de usuario con el PO y equipo de desarrollo.
+
+D.	¿Quién cree que es el responsable de que usted conozca el contexto de negocio y la aplicación a probar?
+	PO y equipo de desarrollo.
+
+E.	¿si entregara un informe de avance de sus pruebas que información relacionaría?
+	Inicio de las pruebas, estrategia, casos de pruebas realizados, situacion actual de los casos de prueba: exitosos, no exitosos, pendientes.
+	situacion actual de defectos: encontrados, reportados y solucionados.
+
+F. 	¿si tuviera que entregar indicadores del proceso de pruebas que incluiría?
+	El porcentaje de los Escenarios de pruebas q se han realizado y la Tasa de éxito de estos frente al ambiente de Test.
