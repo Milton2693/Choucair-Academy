@@ -1,0 +1,35 @@
+3. Defina el proceso de pruebas correspondiente para esta solicitud de acuerdo a la metodología Choucair. 
+
+Planeación
+
+- Se planea en detalle los tiempos y esfuerzos de las actividades, se establece el alcance, estrategia y riesgos de prueba.
+
+
+Diseño
+
+- Diseño de los casos de prueba, creación del Plan especifico de pruebas y preparación de datos de prueba.
+
+
+5. Simulando la ejecución de los casos de prueba, explique y de un ejemplo de cómo realizaría el reporte de los ISSUES y su respectiva gestión.
+
+
+Para hacer el respectivo reporte de los ISSUES, se debe de tener cierta información:
+
+1. Identificador del bug
+2. Funcionalidad / Módulo
+3. Tipo de bug
+4. Etapa de Desarrollo
+5. Responsable del reporte del bug
+6. Encargado del seguimiento del bug
+7. Responsable de la solución del bug reportado
+8. Área del proceso de ingeniería a la que pertenece
+9. Descripción del bug
+10. Pasos para replicar el bug con la información y datos pertinente
+11. Versión de detección
+12. Versión de solución
+
+A la hora de la gestión del bug se debe de tener en cuenta el ciclo de vida del bug donde el Tester debe de hacer el respectivo reporte de el ISSUE 
+y estar atento al estado de la solución del bug una vez solucionado, se hará el Re-Test de la funcionalidad para verificar la solución, 
+si no se ha solucionado el ISSUE este volver a ser reportado y volvera a seguir con el ciclo.
+
+
